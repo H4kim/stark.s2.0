@@ -14,6 +14,16 @@ body {
 }
 .c1{
     display: inline-block;
-    padding: 2%;
+    box-shadow: 0 1px 10px rgba(128, 128, 128, 0.397);
+    margin : 10px 20px;
+    text-align: center;
+    border-radius: 4px;
+    padding:4% 2%;
     background-color: white;
+}
+.c1 h3{
+    border-bottom: 1px solid black;
+    width: 100%;
+    text-transform: uppercase;
+    padding-bottom: 1%;
 }

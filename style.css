@@ -73,3 +73,24 @@ div.text-center a{
     text-decoration: none;
     color: white;
 }
+form{
+    margin: 0 auto;
+}
+form label{
+    font-size: 20px;
+}
+
+.main-register{
+    background-color: #f9f6f7;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    padding:10px  50px;
+    /* height: 90%; */
+    border-radius: 10px;
+}
+
+.btn-success{
+    padding: 3% 5%;
+}
