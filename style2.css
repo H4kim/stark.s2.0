@@ -1,0 +1,19 @@
+*{
+    font-family: 'Titillium Web', sans-serif;
+    box-sizing: border-box;
+
+}
+body {
+    background-color: #3fc1c9;
+    /* position: relative; */
+}
+
+.nav-event {
+    margin-top: -50px;
+
+}
+.c1{
+    display: inline-block;
+    padding: 2%;
+    background-color: white;
+}
